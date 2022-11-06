@@ -1,5 +1,6 @@
 # FRAUDULENT PRODUCT DETECTION FOR DIGITAL EQUIPMENT
-[image](https://user-images.githubusercontent.com/53049797/200182196-c057b15f-1eac-4aff-9b4d-24ba3e313744.png)
+ABSTRACT![image](https://user-images.githubusercontent.com/53049797/200182253-28e0f2ba-342d-4a04-a6ad-063f3c986686.png)
+
 
 The availability of simulated products in the market is one of the biggest challenges of both the online and offline retail industry. 
 
